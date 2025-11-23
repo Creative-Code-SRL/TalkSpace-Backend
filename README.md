@@ -29,3 +29,10 @@ DB_NAME=name-DB
 
 - Para hacer correr el programa usamos el comando:
 `npm start`
+
+-Para el uso de la libreria de google usamos el comando:
+´npm install google-auth-library´
+
+-Añadir la siguiente linea al .env
+´GOOGLE_CLIENT_ID=tu-client-id-de-google´
+
